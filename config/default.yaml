@@ -1,0 +1,10 @@
+target_process: game.exe
+poll_interval_ms: 250
+overlay_enabled: true
+features:
+  - name: infinite_stamina
+    enabled: false
+    hotkey: ctrl+alt+s
+  - name: no_recoil
+    enabled: false
+    hotkey: ctrl+alt+r
