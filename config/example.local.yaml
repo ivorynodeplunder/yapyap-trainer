@@ -1,0 +1,9 @@
+# Copy to local.yaml and edit. local.yaml is gitignored.
+target_process: game.exe
+poll_interval_ms: 100
+overlay_enabled: false
+features:
+  - name: infinite_stamina
+    enabled: true
+  - name: no_recoil
+    enabled: true
